@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "e492f66554dcde0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0172074b878a482",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ffdcf2b3bb89072",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "88004f3d05f39907",
+    "type": "split",
+    "children": [
+      {
+        "id": "d49c38c819a9cbc0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f4f0273d85e73c3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5e7b4b1905678979",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "平稳独立增量过程",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "85f35c5bd6e3a81a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "bd828daa53f5d8fb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "83777afc88e31353",
+    "type": "split",
+    "children": [
+      {
+        "id": "028e94f7d68d962b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6f87366ea42354e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b4e407299724a291",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          },
+          {
+            "id": "891af78806328790",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "07317ee9ed2c848b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "f95f514bbfb37d21",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "700b0b7fb42088db",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c2cba48c726cc687",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 303.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "5ffdcf2b3bb89072",
+  "lastOpenFiles": [
+    "未命名.md",
+    "Day Planners/Day Planner-20230928.md",
+    "Day Planners/Day Planner-20230904.md",
+    "Day Planners/Day Planner-20230714.md",
+    "deep-learning-system/slides/1-intro.pdf",
+    "deep-learning-system/1-intro.md",
+    "deep-learning-system/slides/2-softmax-regression.pdf",
+    "deep-learning-system/slides",
+    "deep-learning-system",
+    "Day Planners/Day Planner-20230317.md",
+    "未命名.canvas",
+    "information-security/chap-2-cryptography.md",
+    "information-security",
+    "Day Planners/Day Planner-20230316.md",
+    "Day Planners/Day Planner-20230307.md",
+    "mathematics/数理统计.md",
+    "mathematics/概率论.md",
+    "mathematics/随机过程.md",
+    "mathematics/复变函数.md",
+    "machine-learning/chap-6-支持向量机.md",
+    "Day Planners/Day Planner-20221028.md",
+    "daily/2022-10-28(43).md",
+    "daily/template.md",
+    "daily/2022-06-05(22).md",
+    "daily/Day Planner-{{YYMMDD}}.md"
+  ]
+}

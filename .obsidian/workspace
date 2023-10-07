@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "e492f66554dcde0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "88e387710932cdec",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "MachineLearning/Chap 3. 线性模型.md",
+            "mode": "source",
+            "source": true
+          }
+        },
+        "group": "64f8b4945555492b"
+      },
+      {
+        "id": "ab3a6c3d3625b699",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "MachineLearning/Chap 3. 线性模型.md",
+            "mode": "preview",
+            "source": true
+          }
+        },
+        "group": "64f8b4945555492b"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "88004f3d05f39907",
+    "type": "split",
+    "children": [
+      {
+        "id": "d49c38c819a9cbc0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f4f0273d85e73c3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5e7b4b1905678979",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "85f35c5bd6e3a81a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "83777afc88e31353",
+    "type": "split",
+    "children": [
+      {
+        "id": "67675b3a27bc16a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f95f514bbfb37d21",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MachineLearning/Chap 3. 线性模型.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "700b0b7fb42088db",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MachineLearning/Chap 3. 线性模型.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "891af78806328790",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "07317ee9ed2c848b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MachineLearning/Chap 3. 线性模型.md"
+              }
+            }
+          },
+          {
+            "id": "1468b2429528231f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "8fd538a2f6cf8603",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "88e387710932cdec",
+  "lastOpenFiles": [
+    "Math/复变函数.md",
+    "MachineLearning/Chap 5. 神经网络.md",
+    "MachineLearning/Chap 1. 绪论.md"
+  ]
+}

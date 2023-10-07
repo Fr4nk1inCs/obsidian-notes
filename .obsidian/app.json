@@ -1,0 +1,25 @@
+{
+  "legacyEditor": false,
+  "livePreview": false,
+  "strictLineBreaks": true,
+  "spellcheck": true,
+  "communityThemeSortOrder": "download",
+  "communityPluginSortOrder": "download",
+  "promptDelete": false,
+  "attachmentFolderPath": "./images",
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true,
+  "showLineNumber": false,
+  "newFileLocation": "current",
+  "spellcheckLanguages": null,
+  "defaultViewMode": "preview",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 100
+  },
+  "vimMode": true,
+  "showInlineTitle": false,
+  "tabSize": 4
+}

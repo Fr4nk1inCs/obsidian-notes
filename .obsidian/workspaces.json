@@ -1,0 +1,298 @@
+{
+  "workspaces": {
+    "Double Column": {
+      "main": {
+        "id": "85148ed6ce18452d",
+        "type": "split",
+        "children": [
+          {
+            "id": "ae9b4bba929bca49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OperatingSystem/Chap 5. Process Communication & Sychronization.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            },
+            "group": "6b8726ce27462a52"
+          },
+          {
+            "id": "23e0a00262dfd3f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OperatingSystem/Chap 5. Process Communication & Sychronization.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            },
+            "group": "6b8726ce27462a52"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "15351923c41665e4",
+        "type": "split",
+        "children": [
+          {
+            "id": "361bc7c90a762148",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9fb3674b71b8261d",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "9ef4ab387583105e",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 222
+      },
+      "right": {
+        "id": "306213c18cd1c02b",
+        "type": "split",
+        "children": [
+          {
+            "id": "f1879ae4bdae1bad",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5cb3c5143489be7d",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "af6fdeff11bc2fc6",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "OperatingSystem/Chap 5. Process Communication & Sychronization.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "7cc285da9ec3d29f",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "OperatingSystem/Chap 5. Process Communication & Sychronization.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "5ec26dd1b543ddd2",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "OperatingSystem/Chap 5. Process Communication & Sychronization.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "active": "23e0a00262dfd3f5"
+    },
+    "Side Pane": {
+      "main": {
+        "id": "85148ed6ce18452d",
+        "type": "split",
+        "children": [
+          {
+            "id": "ae9b4bba929bca49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2022-04-02(13).md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            },
+            "group": "6b8726ce27462a52"
+          },
+          {
+            "id": "23e0a00262dfd3f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2022-04-02(13).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            },
+            "group": "6b8726ce27462a52"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "15351923c41665e4",
+        "type": "split",
+        "children": [
+          {
+            "id": "361bc7c90a762148",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9fb3674b71b8261d",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "9ef4ab387583105e",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 222
+      },
+      "right": {
+        "id": "306213c18cd1c02b",
+        "type": "split",
+        "children": [
+          {
+            "id": "d32e9f1564a58642",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5ec26dd1b543ddd2",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Daily/2022-04-02(13).md"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "f1879ae4bdae1bad",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5cb3c5143489be7d",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "af6fdeff11bc2fc6",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Daily/2022-04-02(13).md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "7cc285da9ec3d29f",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Daily/2022-04-02(13).md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "502d9920244f8e9d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d907ff1847cd3347",
+                "type": "leaf",
+                "state": {
+                  "type": "todo",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "active": "23e0a00262dfd3f5"
+    }
+  },
+  "active": "Side Pane"
+}

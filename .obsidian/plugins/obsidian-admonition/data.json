@@ -1,0 +1,111 @@
+{
+  "userAdmonitions": {
+    "def": {
+      "type": "def",
+      "color": "255, 127, 0",
+      "icon": {
+        "name": "book",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Definition",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "lem": {
+      "type": "lem",
+      "color": "0, 191, 0",
+      "icon": {
+        "name": "lightbulb",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Lemma",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "cor": {
+      "type": "cor",
+      "color": "255, 191, 0",
+      "icon": {
+        "name": "arrow-alt-circle-right",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Corollary",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
+    },
+    "pro": {
+      "type": "pro",
+      "color": "0, 127, 255",
+      "icon": {
+        "name": "pen",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Proposition",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "code": {
+      "type": "code",
+      "color": "0, 127, 255",
+      "icon": {
+        "name": "code",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Code",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "col2": {
+      "type": "col2",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "columns",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Column",
+      "injectColor": true,
+      "noTitle": true
+    },
+    "thm": {
+      "type": "thm",
+      "color": "255, 0, 255",
+      "icon": {
+        "name": "hand-point-right",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Theorem",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
+    }
+  },
+  "syntaxHighlight": true,
+  "copyButton": true,
+  "version": "9.0.5",
+  "autoCollapse": true,
+  "defaultCollapseType": "open",
+  "injectColor": true,
+  "parseTitles": true,
+  "dropShadow": true,
+  "hideEmpty": false,
+  "open": {
+    "admonitions": true,
+    "icons": true,
+    "other": true,
+    "advanced": true
+  },
+  "icons": [],
+  "useFontAwesome": true,
+  "rpgDownloadedOnce": false,
+  "msDocConverted": false,
+  "useSnippet": true,
+  "snippetPath": "custom-admonitions.c2c534"
+}
