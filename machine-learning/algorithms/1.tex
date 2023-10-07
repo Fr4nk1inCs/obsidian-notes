@@ -1,0 +1,50 @@
+% Copyright (c) 2022 Fr4nk1in-USTC
+% 
+% This software is released under the MIT License.
+% https://opensource.org/licenses/MIT
+
+\documentclass[varwidth = 15cm]{standalone}
+\usepackage[ruled, lined, linesnumbered]{algorithm2e}
+\usepackage{ctex}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\renewcommand{\algorithmcfname}{算法}
+\begin{document}
+\begin{algorithm}[H]
+	\caption{决策树学习基本算法}
+	\SetFuncSty{textrm}
+	\SetArgSty{textrm}
+	\SetDataSty{textrm}
+	\SetKwInOut{Input}{输入}
+	\SetKwInOut{Output}{输出}
+	\SetKwInput{Process}{过程}
+	\SetKwFunction{TreeGenerate}{TreeGenerate}
+	\SetKwData{Node}{node}
+	\SetKwArray{Branch}{branch}
+
+	\Input{训练集 $D = \{(\boldsymbol{x}_1, y_1), (\boldsymbol{x}_2, y_2), \cdots, (\boldsymbol{x}_m, y_m)\}$;\\ 属性集 $A = \{a_1, a_2, \cdots, a_d\}$.}
+	\Process{函数 \TreeGenerate{$D$, $A$}}
+	\Output{以 \Node 为根结点的一棵决策树}
+
+	生成结点 $\Node$\;
+	\If{$D$ 中样本全属于同一类别 $C$}{
+		将 \Node 标记为 $C$ 类叶结点\;
+		\Return \Node \tcp*[r]{递归返回, 情形 1.}
+	}
+	\If{$A = \varnothing$ \textbf{OR} $D$ 中样本在 $A$ 上取值相同}{
+		将 \Node 标记为叶结点, 其类别标记为 $D$ 中样本数最多的类\;
+		\Return \Node \tcp*[r]{递归返回, 情形 2.}
+	}
+	从 $A$ 中选取最优划分属性 $a_*$ \tcp*[r]{决策树学习的关键}
+	\For{$a_*$ 的每一个值 $a_*^v$}{
+		为 \Node 生成一个分支 \Branch{$a_*^v$}\;
+		$D_v$ := $D$ 中在 $a_*$ 上取值为 $a_*^v$ 的样本子集\;
+		\eIf{$D_v = \varnothing$}{
+			将 \Branch{$a_*^v$} 标记为叶结点, 其类别标记为 $D$ 中样本数最多的类  \tcp*[r]{情形 3.}
+		}{
+			\Branch{$a_*^v$} := \TreeGenerate{$D_v$, $A\backslash \{a_*\}$}\;
+		}
+	}
+	\Return \Node\;
+\end{algorithm}
+\end{document}
